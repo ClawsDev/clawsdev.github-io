@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed');
+
+.top{
+	background-color: #EF6C00;
+	width: 100%;
+	height: 500px;
+
+}
+h1{
+	font-size: 10em;
+	font-family: 'Lobster Two', cursive;
+	color: white;
+	text-align: center;
+	padding-top: 6%; 
+}
+h4{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.3em;
+	color: white;
+	padding-top: 5%;
+	text-align: center;
+	width: 50% auto ;
+}
