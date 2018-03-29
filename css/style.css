@@ -1,0 +1,10 @@
+@import "../node_modules/bulma/bulma";
+
+
+/*Changes CSS Bulma for Claws*/
+.hero-head{
+	background-color: #004D40;
+}
+.hero-body{
+	background-color:#00695C;
+}
